@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi,%20I'm%20YourName!&fontSize=40&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=40&fontColor=ffffff" alt="header" />
 </p>
 
 <!-- Intro Section -->
@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bramase12&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramase12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
