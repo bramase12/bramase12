@@ -10,7 +10,7 @@
   🚀 Game Developer with experience using <strong>Unity</strong> and <strong>Construct</strong><br>
   🛠 Software Developer with a focus on <strong>Python</strong>, <strong>C#</strong>, <strong>C++</strong>, and <strong>Laravel</strong><br>
   📈 Always learning & improving across both gameplay systems and backend development<br>
-  📫 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a>
+  📫 Reach me at: <a href="mailto:bramaforeverybody@gmail.com">youremail@example.com</a>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ### 🎯 Quote
 <p align="center">
-  <em>“Games give us the freedom to be anyone, and code gives us the power to build anything.”</em>
+  <em>“Be Yourself.”</em>
 </p>
 
 <!-- Optional contact or portfolio -->
