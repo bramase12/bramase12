@@ -10,7 +10,7 @@
   🚀 Game Developer with experience using <strong>Unity</strong> and <strong>Construct</strong><br>
   🛠 Software Developer with a focus on <strong>Python</strong>, <strong>C#</strong>, <strong>C++</strong>, and <strong>Laravel</strong><br>
   📈 Always learning & improving across both gameplay systems and backend development<br>
-  📫 Reach me at: <a href="mailto:bramaforeverybody@gmail.com">bramaforeverybody@gmail.com</a>
+  📫 Reach me at: <a href="mailto:bramasetioal@gmail.com">bramaforeverybody@gmail.com</a>
 </p>
 
 ---
@@ -48,5 +48,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bramasetio-al-asyr-baba84303" target="_blank">LinkedIn</a> •
   <a href="https://bramase12.github.io/" target="_blank">Portfolio</a> •
-  <a href="mailto:bramaforeverybody@gmail.com">Email</a>
+  <a href="mailto:bramasetioal@gmail.com">Email</a>
 </p>
