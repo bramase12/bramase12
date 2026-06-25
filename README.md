@@ -1,7 +1,8 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,7,8&height=250&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=44&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Dev%20•%20Open%20Source&descSize=18&descColor=ffffffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=280&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%3Cbr%3ECloud%20Learner%20%E2%98%81%EF%B8%8F%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descSize=19&descAlignY=60&descColor=ffffffcc" alt="header" />
 </p>
+
 
 <!-- Intro Section -->
 <h2 align="center">🎮 Game & Software Developer</h2>
