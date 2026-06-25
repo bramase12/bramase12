@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=260&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Selamat%20datang%20di%20profil%20GitHub%20saya&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,7,8&height=250&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=44&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Dev%20•%20Open%20Source&descSize=18&descColor=ffffffcc" />
 </p>
 
 <!-- Intro Section -->
