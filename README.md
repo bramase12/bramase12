@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15&height=280&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%3Cbr%3ECloud%20Learner%20%E2%98%81%EF%B8%8F%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descSize=19&descAlignY=60&descColor=ffffffcc" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5&height=280&section=header&text=Hi,%20I'm%20Bramasetio!&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%3Cbr%3E%E2%98%81%EF%B8%8F%20Cloud%20Learner%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20Indonesia&descSize=20&descAlignY=58&descColor=ffffff&stroke=00000033&strokeWidth=1.5" alt="header" />
 </p>
 
 
